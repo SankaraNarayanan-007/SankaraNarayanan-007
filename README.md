@@ -1,4 +1,4 @@
-# Sankara Narayanan R R
+# Hi ,I'm Sankara Narayanan R R
 
 Final-year Computer Science Engineering student interested in **AI/ML, Data Science, Full-Stack Development, and IoT**. I enjoy building practical applications and working prototypes by combining data, software, APIs, and hardware.
 
